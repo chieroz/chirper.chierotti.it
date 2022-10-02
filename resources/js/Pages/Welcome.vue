@@ -23,6 +23,6 @@ defineProps({
             </template>
         </div>
 
-        <p class="text-white font-extrabold text-xl">Semper class erat ridiculus nullam ante platea turpis</p>
+        <p class="font-extrabold text-xl">Semper class erat ridiculus nullam ante platea turpis</p>
     </div>
 </template>
